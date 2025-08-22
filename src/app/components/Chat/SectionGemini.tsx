@@ -246,7 +246,7 @@ export function Section() {
                         />
                         <div className="flex flex-col text-[10px] text-white xl:text-lg">
                           <span className="mb-2 mr-auto w-max font-semibold">
-                            Tatiane - Diagnóstico Power
+                            Consultor Diagnóstico Power
                           </span>
                           <div className="rounded-2xl rounded-tl-none border border-[#99D420] bg-[#99D4200f] p-4">
                             {message.content === "..." ? (
